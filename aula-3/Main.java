@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 
- public class main
+ public class Main
 {      
 
-   public static void main(String[] args); {
+   public static void main(String[] args) {
    System.out.println("hello word");
              
 
@@ -23,7 +23,3 @@ import java.util.Scanner;
    
     double saldo_do_cliente = 40.99;   
     
-   
-   
-   System.out.println("total:"+ saldo_do_cliente);
-   
